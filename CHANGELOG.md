@@ -2,3 +2,4 @@
 - **2025-09-05 17:13:45**: docs: update README setup instructions and dependencies
 - **2025-09-06 18:27:37**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-09-10 21:48:45**: docs: update README setup instructions and dependencies
+- **2025-09-12 21:47:35**: test: benchmark inference execution speed on ESP32 dual-core
