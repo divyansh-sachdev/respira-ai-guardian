@@ -6,3 +6,4 @@
 - **2025-09-13 10:10:43**: refactor: simplify state machine transition logic
 - **2025-09-14 17:54:46**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-09-16 20:12:32**: fix: handle edge case timeout in sensor initialization loop
+- **2025-09-17 16:07:24**: fix: resolve floating point conversion precision issue
