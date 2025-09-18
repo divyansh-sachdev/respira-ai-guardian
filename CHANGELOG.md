@@ -7,3 +7,4 @@
 - **2025-09-14 17:54:46**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-09-16 20:12:32**: fix: handle edge case timeout in sensor initialization loop
 - **2025-09-17 16:07:24**: fix: resolve floating point conversion precision issue
+- **2025-09-18 16:23:30**: docs: update README setup instructions and dependencies
