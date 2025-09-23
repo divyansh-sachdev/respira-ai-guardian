@@ -9,3 +9,4 @@
 - **2025-09-17 16:07:24**: fix: resolve floating point conversion precision issue
 - **2025-09-18 16:23:30**: docs: update README setup instructions and dependencies
 - **2025-09-23 10:32:11**: fix: prevent buffer underflow during rapid sensor reads
+- **2025-09-23 19:09:30**: feat: add visual status LED pulse code for diagnostic mode
