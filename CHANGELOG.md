@@ -11,3 +11,4 @@
 - **2025-09-23 10:32:11**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-09-23 19:09:30**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-09-24 14:44:39**: refactor: clean up debug logs and serial telemetry
+- **2025-09-24 18:06:30**: feat: implement low-power light sleep mode during idle intervals
