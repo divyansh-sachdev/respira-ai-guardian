@@ -13,3 +13,4 @@
 - **2025-09-24 14:44:39**: refactor: clean up debug logs and serial telemetry
 - **2025-09-24 18:06:30**: feat: implement low-power light sleep mode during idle intervals
 - **2025-09-27 15:32:47**: docs: update README setup instructions and dependencies
+- **2025-09-30 15:11:19**: test: verify timer interrupt latency under heavy load
