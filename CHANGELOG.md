@@ -15,3 +15,4 @@
 - **2025-09-27 15:32:47**: docs: update README setup instructions and dependencies
 - **2025-09-30 15:11:19**: test: verify timer interrupt latency under heavy load
 - **2025-09-30 17:51:19**: refactor: modularize signal processing functions into separate header
+- **2025-10-01 21:14:14**: docs: update README setup instructions and dependencies
