@@ -17,3 +17,4 @@
 - **2025-09-30 17:51:19**: refactor: modularize signal processing functions into separate header
 - **2025-10-01 21:14:14**: docs: update README setup instructions and dependencies
 - **2025-10-05 16:34:38**: fix: resolve floating point conversion precision issue
+- **2025-10-06 16:09:15**: docs: clarify licensing and hardware bill of materials
