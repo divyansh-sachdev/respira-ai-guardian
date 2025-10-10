@@ -20,3 +20,4 @@
 - **2025-10-06 16:09:15**: docs: clarify licensing and hardware bill of materials
 - **2025-10-06 21:43:42**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-10-10 19:33:43**: refactor: simplify state machine transition logic
+- **2025-10-10 20:44:20**: feat: implement low-power light sleep mode during idle intervals
