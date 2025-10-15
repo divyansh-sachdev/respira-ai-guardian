@@ -25,3 +25,4 @@
 - **2025-10-11 21:08:50**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-10-15 11:24:45**: docs: update README setup instructions and dependencies
 - **2025-10-15 14:47:43**: refactor: modularize signal processing functions into separate header
+- **2025-10-15 18:46:31**: perf: optimize memory footprint by reducing ring buffer depth
