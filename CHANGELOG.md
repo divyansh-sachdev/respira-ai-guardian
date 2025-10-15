@@ -23,3 +23,4 @@
 - **2025-10-10 20:44:20**: feat: implement low-power light sleep mode during idle intervals
 - **2025-10-11 18:31:31**: feat: add EEPROM configuration persistence for user settings
 - **2025-10-11 21:08:50**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-10-15 11:24:45**: docs: update README setup instructions and dependencies
