@@ -24,3 +24,4 @@
 - **2025-10-11 18:31:31**: feat: add EEPROM configuration persistence for user settings
 - **2025-10-11 21:08:50**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-10-15 11:24:45**: docs: update README setup instructions and dependencies
+- **2025-10-15 14:47:43**: refactor: modularize signal processing functions into separate header
