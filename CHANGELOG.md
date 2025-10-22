@@ -27,3 +27,4 @@
 - **2025-10-15 14:47:43**: refactor: modularize signal processing functions into separate header
 - **2025-10-15 18:46:31**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-10-16 10:28:29**: refactor: modularize signal processing functions into separate header
+- **2025-10-22 15:33:49**: feat: add hardware failsafe watchdog timer routine
