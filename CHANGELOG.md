@@ -28,3 +28,4 @@
 - **2025-10-15 18:46:31**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-10-16 10:28:29**: refactor: modularize signal processing functions into separate header
 - **2025-10-22 15:33:49**: feat: add hardware failsafe watchdog timer routine
+- **2025-10-22 21:15:38**: feat: implement moving average filter for noise suppression
