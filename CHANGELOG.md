@@ -29,3 +29,4 @@
 - **2025-10-16 10:28:29**: refactor: modularize signal processing functions into separate header
 - **2025-10-22 15:33:49**: feat: add hardware failsafe watchdog timer routine
 - **2025-10-22 21:15:38**: feat: implement moving average filter for noise suppression
+- **2025-10-23 15:28:46**: feat: add EEPROM configuration persistence for user settings
