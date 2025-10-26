@@ -30,3 +30,4 @@
 - **2025-10-22 15:33:49**: feat: add hardware failsafe watchdog timer routine
 - **2025-10-22 21:15:38**: feat: implement moving average filter for noise suppression
 - **2025-10-23 15:28:46**: feat: add EEPROM configuration persistence for user settings
+- **2025-10-26 20:38:36**: refactor: clean up debug logs and serial telemetry
