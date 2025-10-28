@@ -32,3 +32,4 @@
 - **2025-10-23 15:28:46**: feat: add EEPROM configuration persistence for user settings
 - **2025-10-26 20:38:36**: refactor: clean up debug logs and serial telemetry
 - **2025-10-27 10:46:40**: feat: add EEPROM configuration persistence for user settings
+- **2025-10-28 14:22:38**: docs: document serial protocol packet structure and error codes
