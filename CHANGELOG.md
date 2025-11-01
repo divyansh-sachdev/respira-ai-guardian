@@ -34,3 +34,4 @@
 - **2025-10-27 10:46:40**: feat: add EEPROM configuration persistence for user settings
 - **2025-10-28 14:22:38**: docs: document serial protocol packet structure and error codes
 - **2025-10-29 19:27:11**: test: verify timer interrupt latency under heavy load
+- **2025-11-01 19:44:10**: test: validate thermal stability over continuous 6-hour test run
