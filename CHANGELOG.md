@@ -37,3 +37,4 @@
 - **2025-11-01 19:44:10**: test: validate thermal stability over continuous 6-hour test run
 - **2025-11-05 18:45:49**: docs: document serial protocol packet structure and error codes
 - **2025-11-09 11:38:44**: refactor: optimize ADC sampling window and reduce jitter
+- **2025-11-11 11:54:47**: docs: clarify licensing and hardware bill of materials
