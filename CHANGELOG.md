@@ -38,3 +38,4 @@
 - **2025-11-05 18:45:49**: docs: document serial protocol packet structure and error codes
 - **2025-11-09 11:38:44**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-11-11 11:54:47**: docs: clarify licensing and hardware bill of materials
+- **2025-11-14 10:23:22**: fix: calibrate baseline sensor offset against reference multimeter
