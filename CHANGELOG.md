@@ -40,3 +40,4 @@
 - **2025-11-11 11:54:47**: docs: clarify licensing and hardware bill of materials
 - **2025-11-14 10:23:22**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-11-18 16:27:13**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-11-20 17:32:35**: refactor: clean up debug logs and serial telemetry
