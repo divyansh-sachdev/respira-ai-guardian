@@ -42,3 +42,4 @@
 - **2025-11-18 16:27:13**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-11-20 17:32:35**: refactor: clean up debug logs and serial telemetry
 - **2025-11-21 17:16:41**: fix: calibrate baseline sensor offset against reference multimeter
+- **2025-11-21 19:28:43**: fix: resolve floating point conversion precision issue
