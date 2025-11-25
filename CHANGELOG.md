@@ -44,3 +44,4 @@
 - **2025-11-21 17:16:41**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-11-21 19:28:43**: fix: resolve floating point conversion precision issue
 - **2025-11-22 18:10:37**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-11-25 16:24:38**: docs: add circuit wiring pinout and power consumption profile
