@@ -47,3 +47,4 @@
 - **2025-11-25 16:24:38**: docs: add circuit wiring pinout and power consumption profile
 - **2025-11-28 10:13:14**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-11-29 14:48:38**: test: validate thermal stability over continuous 6-hour test run
+- **2025-11-29 21:07:48**: feat: implement low-power light sleep mode during idle intervals
